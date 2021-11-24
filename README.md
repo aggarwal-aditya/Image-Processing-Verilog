@@ -3,7 +3,7 @@
 ### How to run our project
 1) To download our program, please copy and paste this line to your terminal:
 ```
-git clone https://github.com/Abhijith-TR/CS203-Project.git
+git clone https://github.com/aggarwal-aditya/Image-Processing-Verilog.git
 ```
 2) It is expected you have [MATLAB](https://in.mathworks.com/products/matlab.html) and [Python](https://www.python.org/downloads/) installed in your system else download from respective hyperlinks.
 3) After downloading the required softwares open the folder CS203-Project. Open ***testbench.py***. The file assumes your system username is ***Admin***, if not change it to your corresponding username at required places.
