@@ -6,7 +6,7 @@
 git clone https://github.com/aggarwal-aditya/Image-Processing-Verilog.git
 ```
 2) It is expected you have [MATLAB](https://in.mathworks.com/products/matlab.html) and [Python](https://www.python.org/downloads/) installed in your system else download from respective hyperlinks.
-3) After downloading the required softwares open the folder CS203-Project. Open ***testbench.py***. The file assumes your system username is ***Admin***, if not change it to your corresponding username at required places.
+3) After downloading the required softwares rename the downloaded folder to CS203-Project and open it. Open ***testbench.py***. The file assumes your system username is ***Admin***, if not change it to your corresponding username at required places.
 4) Run the testbench.py file.
 5) The required files will open up automatically. When the MATLAB console pops up, press ```run``` in MATLAB followed by ```ENTER``` in python output console.
 
